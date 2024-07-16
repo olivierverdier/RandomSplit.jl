@@ -1,6 +1,7 @@
 # RandomSplit
 
 [![Build Status](https://github.com/olivierverdier/RandomSplit.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/olivierverdier/RandomSplit.jl/actions/workflows/CI.yml?query=branch%3Amain)
+[![codecov](https://codecov.io/gh/olivierverdier/RandomSplit.jl/graph/badge.svg?token=MPU338SC4J)](https://codecov.io/gh/olivierverdier/RandomSplit.jl)
 
 Emulates the behaviour of [JAXs pseudorandom number generators keys](https://jax.readthedocs.io/en/latest/jax.random.html).
 
