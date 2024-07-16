@@ -13,7 +13,7 @@ rand(k, Int) # some random Int
 rand(k, Int) # SAME integer
 ```
 
-In other words, you *must** split the key explicitly in order to obtain random results.
+In other words, you *must* split the key explicitly in order to obtain random results.
 
 **This package is hardly tested, use at your own risk.**
 
